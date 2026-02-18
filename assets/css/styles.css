@@ -1,0 +1,32 @@
+:root {
+  --costadmin-primary: #0d6efd;
+  --costadmin-dark: #0b1f3a;
+}
+
+body {
+  font-family: "Inter", "Segoe UI", sans-serif;
+  color: #1f2937;
+}
+
+.hero {
+  background: linear-gradient(140deg, var(--costadmin-dark), #123d6b);
+}
+
+.section-title {
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+.objective {
+  background-color: #ffffff;
+  border-radius: 0.75rem;
+  border: 1px solid #e7ebf0;
+}
+
+.stat-card {
+  background: #f9fbff;
+}
+
+.highlight-card {
+  background: #e8f4ff;
+}
